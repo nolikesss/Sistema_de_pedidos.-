@@ -1,4 +1,4 @@
-# projeto_buguer
+# projeto_buger
 
 ## Project setup
 ```
